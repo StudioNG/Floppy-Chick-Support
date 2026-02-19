@@ -1,0 +1,53 @@
+# Floppy-Chick-Support
+Support and privacy policy pages for Floppy Chick App
+DATENSCHUTZERKLÄRUNG
+
+Stand: 19. Februar 2026
+
+1. Verantwortlicher
+Verantwortlich für die Datenverarbeitung im Rahmen dieser App ist:
+
+StudioNG 
+E-Mail: studionollgames@gmail.com
+
+
+2. Allgemeines zur Datenverarbeitung
+Wir nehmen den Schutz deiner persönlichen Daten sehr ernst. Personenbezogene Daten sind alle Daten, mit denen du persönlich identifiziert werden kannst. Wir verarbeiten diese Daten nur im Einklang mit der EU-Datenschutz-Grundverordnung (DSGVO) sowie den geltenden landesspezifischen Datenschutzbestimmungen.
+
+3. Datenverarbeitung innerhalb der App
+
+a) Lokal auf deinem Endgerät gespeicherte Daten
+Zur Bereitstellung der Spielfunktionen speichert die App folgende Daten lokal im Speicher deines Endgeräts (z. B. LocalStorage oder SharedPreferences):
+- Spielstände (Highscores)
+- Virtuelle Währung (Coins)
+- Freigeschaltete Spielinhalte (Skins)
+- Individuelle Einstellungen (Audio, Steuerung)
+
+Rechtsgrundlage: Die Verarbeitung ist zur Erfüllung des Vertrages (Bereitstellung der Spielfunktion) erforderlich (Art. 6 Abs. 1 lit. b DSGVO). Diese Daten werden nicht an uns übermittelt und verbleiben ausschließlich auf deinem Gerät.
+
+b) AdMob (Google) und Werbedienstleistungen
+Wir nutzen Google AdMob (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), um Werbung anzuzeigen und die App zu finanzieren. AdMob verwendet Technologien wie Cookies oder gerätespezifische IDs, um Anzeigen zu personalisieren oder zu analysieren.
+
+Dabei können folgende Daten verarbeitet werden:
+- IP-Adresse
+- Geräte-Identifikatoren (z. B. IDFA unter iOS oder Werbe-ID unter Android)
+- Nutzungsdaten (Interaktionen mit Anzeigen)
+
+Einwilligung (UMP/ATT): Wir fragen dich beim ersten Start der App nach deiner Einwilligung.
+- iOS: Wir nutzen das App Tracking Transparency (ATT) Framework.
+- EU/EWR: Wir nutzen ein Consent Management (UMP), um deine Einwilligung gemäß Google-Richtlinien einzuholen.
+
+Rechtsgrundlage: Die Verarbeitung erfolgt auf Grundlage deiner ausdrücklichen Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Du kannst diese Einwilligung jederzeit in den App-Einstellungen unter „Werbe-Optionen“ widerrufen.
+
+4. Drittlandübermittlung
+Durch die Nutzung von Google-Diensten können Daten an Server der Google LLC in den USA übertragen werden. Google nutzt hierfür von der EU-Kommission anerkannte Standardvertragsklauseln, um ein angemessenes Datenschutzniveau zu gewährleisten.
+
+5. Speicherdauer
+Lokale Daten bleiben auf deinem Gerät gespeichert, bis du den Cache der App löschst oder die App deinstallierst. Daten, die über Werbepartner erhoben werden, unterliegen den Speicherfristen von Google (siehe Google Privacy Policy).
+
+6. Deine Rechte
+Nach der DSGVO hast du folgende Rechte:
+- Auskunft (Art. 15): Zu erfahren, welche Daten wir verarbeiten.
+- Löschung (Art. 17): Die Löschung deiner Daten zu verlangen.
+- Widerruf (Art. 7 Abs. 3): Eine einmal gegebene Einwilligung jederzeit zu widerrufen.
+- Beschwerderecht (Art. 77): Dich bei einer zuständigen Aufsichtsbehörde zu beschweren.
